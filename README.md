@@ -15,6 +15,10 @@ Melody playback is powered by a custom synthesizer with loads of tweakable param
 - **ADSR Envelope**: Control Attack, Decay, Sustain, and Release to shape your sound.
 - **Filter Settings**: Customize the filter for a unique vibe, from warm to edgy.
 
+## 🥁 Drum Samples and Chord Files
+- **Drums**: A drum sample is provided, but you’ll need to manually select it in MAX/MSP. This lets you choose your ideal drum sound to match the vibe you’re going for.
+- **Chords and Bass**: The chords and bass parts connect to the Ableton file provided. Just load in the TXT files with all the chords and chord qualities, and you’re ready to roll!
+
 ## 🚀 Getting Started
 1. **Download & Install**: Clone this repo, open the project in MAX/MSP, and hit play.
 2. **Input Your Track Details**: Choose genre, set tempo, and add your chord progressions.
@@ -31,4 +35,4 @@ A: Yep, just hit “Save” in MAX/MSP, and you can save the MIDI for your next 
 ## 🌈 Contribute
 Got an idea to make this even better? Fork it, add your magic, and submit a PR! 
 
-Get creative, experiment, and have fun! This software is here to help you dive into the art of improv with a little help from a virtual band that always has your back. 
+Get creative, experiment, and have fun! This software is here to help you dive into the art of improv with a little help from a virtual band that always has your back.
